@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         //Load the intitial game sound, and then display the Round information
+        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "backgroundMK.png")!)
         QuizManager.loadGameStartSound()
         QuizManager.playGameStartSound()
         QuizManager.displayRound(questionLabel: questionLabel, answerButton1: answerButton1, answerButton2: answerButton2, answerButton3: answerButton3, answerButton4: answerButton4)

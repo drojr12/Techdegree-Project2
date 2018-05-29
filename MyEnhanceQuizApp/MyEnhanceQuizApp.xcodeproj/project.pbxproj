@@ -10,6 +10,7 @@
 		C02D053620BCE60700128FF9 /* ElectricalSweeper.wav in Resources */ = {isa = PBXBuildFile; fileRef = C02D053520BCE60700128FF9 /* ElectricalSweeper.wav */; };
 		C02D053A20BCE7E000128FF9 /* RightSound.wav in Resources */ = {isa = PBXBuildFile; fileRef = C02D053920BCE7E000128FF9 /* RightSound.wav */; };
 		C02D053C20BCF1C300128FF9 /* WrongSound.wav in Resources */ = {isa = PBXBuildFile; fileRef = C02D053B20BCF1C300128FF9 /* WrongSound.wav */; };
+		C02D053E20BCFF1000128FF9 /* backgroundMK.png in Resources */ = {isa = PBXBuildFile; fileRef = C02D053D20BCFF0F00128FF9 /* backgroundMK.png */; };
 		C0D170A920BA77E700745AC6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0D170A820BA77E700745AC6 /* AppDelegate.swift */; };
 		C0D170AB20BA77E700745AC6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0D170AA20BA77E700745AC6 /* ViewController.swift */; };
 		C0D170AE20BA77E700745AC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0D170AC20BA77E700745AC6 /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 		C02D053520BCE60700128FF9 /* ElectricalSweeper.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ElectricalSweeper.wav; sourceTree = "<group>"; };
 		C02D053920BCE7E000128FF9 /* RightSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = RightSound.wav; sourceTree = "<group>"; };
 		C02D053B20BCF1C300128FF9 /* WrongSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = WrongSound.wav; sourceTree = "<group>"; };
+		C02D053D20BCFF0F00128FF9 /* backgroundMK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundMK.png; sourceTree = "<group>"; };
 		C0D170A520BA77E700745AC6 /* MyEnhanceQuizApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyEnhanceQuizApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0D170A820BA77E700745AC6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C0D170AA20BA77E700745AC6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				C0D170AF20BA77E800745AC6 /* Assets.xcassets */,
 				C0D170B120BA77E800745AC6 /* LaunchScreen.storyboard */,
 				C0D170B420BA77E800745AC6 /* Info.plist */,
+				C02D053D20BCFF0F00128FF9 /* backgroundMK.png */,
 				C02D053520BCE60700128FF9 /* ElectricalSweeper.wav */,
 				C02D053B20BCF1C300128FF9 /* WrongSound.wav */,
 				C02D053920BCE7E000128FF9 /* RightSound.wav */,
@@ -146,6 +149,7 @@
 				C02D053A20BCE7E000128FF9 /* RightSound.wav in Resources */,
 				C0D170C120BA7DC100745AC6 /* GameSound.wav in Resources */,
 				C02D053C20BCF1C300128FF9 /* WrongSound.wav in Resources */,
+				C02D053E20BCFF1000128FF9 /* backgroundMK.png in Resources */,
 				C0D170B320BA77E800745AC6 /* LaunchScreen.storyboard in Resources */,
 				C02D053620BCE60700128FF9 /* ElectricalSweeper.wav in Resources */,
 				C0D170B020BA77E800745AC6 /* Assets.xcassets in Resources */,
